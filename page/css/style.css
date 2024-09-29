@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.service-container{
+    text-align: center;
+    padding: 50px;
+}
+.menu{
+    list-style-type: none;
+    background-color: rgb(202, 245, 245);
+    text-align: right;
+    padding: 10px;
+    margin: 0px;
+}
+.menu li{
+    display: inline;
+    margin: 10px;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+footer{
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
